@@ -1,10 +1,8 @@
-# Service Worker - 02/04/2021
+# Service Worker - 03/04/2021
 ## Teoria
-- Ciclo de eventos
+### Ciclo de eventos
   1. Verificação
-
+### App Shell architecture
 ## Prática
 
-  
-
-# Proxies - 03/04/2021
+  https://github.com/dhertzb/sw-features
