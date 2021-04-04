@@ -6,6 +6,8 @@
   3. Instalação do serviço 
 ### App Shell architecture
   Recursos basicos da Ui são salvos no cache.
+### Links
+https://vueschool.io/articles/vuejs-tutorials/vue-js-performance-mastering-cache/
 ## Prática
 
   https://github.com/dhertzb/sw-features
