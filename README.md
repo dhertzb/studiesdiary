@@ -12,3 +12,7 @@ https://vueschool.io/articles/vuejs-tutorials/vue-js-performance-mastering-cache
 
   https://github.com/dhertzb/sw-features
 > Aplicação de cache da shell structure em projeto vue, utilizando webpack chunks para modularizar o bundle.
+# Smart Bundling - 04/04/2021
+
+### Links
+https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758
