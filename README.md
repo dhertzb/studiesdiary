@@ -22,3 +22,13 @@ https://vueschool.io/articles/vuejs-tutorials/vue-js-performance-mastering-cache
 
 ### Links
 https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758
+
+# Typescript - 10/04/2021
+
+## Teoria 
+
+Série TypeScript zero to hero - https://github.com/glaucia86/curso-typescript-zero-to-hero
+
+## Prática
+
+Projeto Vuex-Normalization https://github.com/dhertzb/vuex-normalization
