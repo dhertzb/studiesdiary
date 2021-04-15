@@ -38,4 +38,13 @@ Projeto Vuex-Normalization https://github.com/dhertzb/vuex-normalization
 
 ## Teoria 
 
-Learn how to design and plan a database for beginners - https://www.youtube.com/watch?v=ztHopE5Wnpc
+Learn how to design and plan a database for beginners - https://www.youtube.com/watch?v=ztHopE5Wnpc 1:05:00
+
+
+# Continuação de estudo de typescript - 15/04/2021
+
+## Teoria 
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+
+
