@@ -31,7 +31,7 @@ Série TypeScript zero to hero - https://github.com/glaucia86/curso-typescript-z
 
 ## Prática
 
-Projeto Vuex-Normalization https://github.com/dhertzb/vuex-normalization
+Aplicação no projeto Vuex-Normalization https://github.com/dhertzb/vuex-normalization
 
 
 # Database design - 13/04/2021
@@ -46,5 +46,12 @@ Learn how to design and plan a database for beginners - https://www.youtube.com/
 ## Teoria 
 https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
+# Estudando Prisma.js
 
+## Teoria 
+https://www.youtube.com/watch?v=SvtXgRA7KsE
+
+## Prática 
+
+Aplicação no projeto Vuex-Normalization https://github.com/dhertzb/vuex-normalization
 
