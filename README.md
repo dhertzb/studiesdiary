@@ -46,7 +46,7 @@ Learn how to design and plan a database for beginners - https://www.youtube.com/
 ## Teoria 
 https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
-# Estudando Prisma.js
+# Estudando Prisma.js - 18/04/2021
 
 ## Teoria 
 https://www.youtube.com/watch?v=SvtXgRA7KsE
