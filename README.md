@@ -55,3 +55,16 @@ https://www.youtube.com/watch?v=SvtXgRA7KsE
 
 Aplicação no projeto Vuex-Normalization https://github.com/dhertzb/vuex-normalization
 
+
+
+# Dando um lida - 19/04/2021
+
+## Teoria 
+Uma retomada em escopos
+https://neven.hashnode.dev/a-simple-explanation-of-javascript-scope
+Retomada this
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/this#sintaxe
+
+
+
+
