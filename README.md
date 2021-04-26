@@ -66,5 +66,14 @@ Retomada this
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/this#sintaxe
 
 
+# Integração typescript vue- 24/04/2021
+
+
+# Introdução websockets- 25/04/2021
+
+## Teoria 
+https://www.youtube.com/watch?v=HrkECIzaQvE
+
+
 
 
