@@ -114,3 +114,10 @@ https://www.youtube.com/watch?v=HrkECIzaQvE
 ## Prática
 https://github.com/dhertzb/micro-frontend
 
+-------------------
+
+# Seletores CSS
+
+## Prática
+
+https://flukeout.github.io/
